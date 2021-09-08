@@ -94,9 +94,9 @@ Clique **[aqui](http://emag.governoeletronico.gov.br/)** para ver as recomendaç
   <tr>
     <td align="center">
       <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Herberto Mauricio no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Herberto Mauricio</b>
         </sub>
       </a>
     </td>
@@ -124,5 +124,5 @@ Quer fazer parte desse projeto? É simples!<br>
 Faça um fork dele e coloque as suas modificações, depois mande um pull request.<br>
 
 <h3 align="center">
-🏰<br>Orgulhosamente feito por <strong>Iuri Silva</strong>
+🏰<br>Orgulhosamente feito por <strong>Herberto Mauricio</strong>
 </h3>
